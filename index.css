@@ -1,0 +1,29 @@
+.span{
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    padding: 1%;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    font-size: large;
+    margin: 2%;
+    padding: 1%;
+}
+
+table{
+    width: 97%;
+    margin: 1%;
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
